@@ -1,0 +1,16 @@
+{
+  "products": {
+    "1": {
+      "name": "ekmek ",
+      "price": "10"
+    },
+    "2": {
+      "name": "sosisli",
+      "price": "50"
+    },
+    "3": {
+      "name": "çay",
+      "price": "15"
+    }
+  }
+}

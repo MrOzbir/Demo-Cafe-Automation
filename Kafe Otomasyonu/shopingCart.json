@@ -1,0 +1,20 @@
+{
+    "1": {
+        "name": "ekmek",
+        "price": 10,
+        "piece": 2,
+        "sumOfProductPrice": 20
+    },
+    "2": {
+        "name": "çay",
+        "price": 15,
+        "piece": 2,
+        "sumOfProductPrice": 30
+    },
+    "3": {
+        "name": "ekmek",
+        "price": 10,
+        "piece": 1,
+        "sumOfProductPrice": 10
+    }
+}
